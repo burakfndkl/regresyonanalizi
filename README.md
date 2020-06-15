@@ -1,1 +1,1 @@
-# regresyon
+Regresyon analizi, iki ya da daha çok değişken arasındaki ilişkiyi ölçmek için kullanılan analiz metodudur. Literatürde uygun modelin belirlenebilmesi amacıyla yapılmış çeşitli çalışmalar mevcuttur. Bu çalışmalarda uygun modelin seçimi için cevaplanması gereken bazı sorular ile birlikte testlerin kullanılması önerilmiştir. Bu  çalışmada, uygun modelin belirlenebilmesi için Chow testi, MWD testi ve Lagrange Testi ile birlikte uygun modeli belirlemek için bir masaüstü uygulaması hazırlamak amaçlanmıştır.
